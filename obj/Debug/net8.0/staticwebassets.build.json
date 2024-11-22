@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nLUINp2w5r9xvqSQsGfXfFzAyu0KmwuM457qQtaYyBo=",
+  "Source": "BusStopAPI",
+  "BasePath": "_content/BusStopAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

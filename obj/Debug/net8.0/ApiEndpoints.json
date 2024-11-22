@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BusStopAPI.Controllers.BusStopsController",
+    "Method": "Get",
+    "RelativePath": "BusStops/AllBusStops",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusStopAPI.Controllers.BusStopsController",
+    "Method": "Get",
+    "RelativePath": "BusStops/BusStopByCode/{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
