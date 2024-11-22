@@ -1,0 +1,18 @@
+# ASP.NET Core
+bin/
+obj/
+wwwroot/
+.vs/
+
+# User-specific files
+.idea/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Build directories
+out/
